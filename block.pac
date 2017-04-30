@@ -1,4 +1,4 @@
-// EeasyList URLs for convenience:
+// Easylist URLs for convenience:
 	// https://easylist.to/easylist/easylist.txt
 	// https://easylist.to/easylist/easyprivacy.txt
 	// https://easylist.to/easylist/fanboy-annoyance.txt
