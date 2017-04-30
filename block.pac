@@ -4752,7 +4752,7 @@ function FindProxyForURL(url, host)
        return "PROXY 8.8.8.8:53";
        }
    else {
-       return "DIRECT";
+	   return "DIRECT";
        }
    }
 
