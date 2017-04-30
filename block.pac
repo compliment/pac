@@ -4749,7 +4749,7 @@ function FindProxyForURL(url, host)
 		  shExpMatch(host, "*.zv1.november-lax.com") ||
          	  shExpMatch(host, "adserver.*")
        ) {
-       return "PROXY 127.0.0.1:53";
+       return "PROXY 0.0.0.0:53";
        }
    else {
        return "DIRECT";
